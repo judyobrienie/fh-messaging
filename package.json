@@ -18,7 +18,7 @@
   },
   "author": "Feedhenry",
   "dependencies": {
-    "moment": "~2.15.2"
+    "moment": "~2.19.3"
   },
   "devDependencies": {
     "whiskey": "~0.8.4",
